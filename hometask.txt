@@ -1,1 +1,14 @@
 Они отличаются тем что в мастер ветке в файле README есть текст " with nice buttons on his jacket (buttons branch)"
+Я вижу 11 коммитов
+1) init
+2) heat added
+3) boots
+4) README added
+5) dots
+6) fix readme
+7) Merge branch 'boots' into boots_buttons
+8) Merge branch 'buttons' into boots_buttons
+9) Merge remote-tracking branch 'origin/hat'
+10) Merge branch 'boots_buttons'
+11) hometask
+и коммит с количеством коммитов будет 12
